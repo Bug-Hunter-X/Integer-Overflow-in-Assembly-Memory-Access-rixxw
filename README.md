@@ -1,0 +1,3 @@
+# Integer Overflow in Assembly Memory Access
+
+This repository demonstrates a common error in assembly programming: integer overflow in memory address calculations.  The code attempts to access memory using a calculation that can overflow, leading to unpredictable behavior and potential crashes. The solution demonstrates how to mitigate this risk.  This is a crucial aspect of low-level programming where careful memory management is essential.
